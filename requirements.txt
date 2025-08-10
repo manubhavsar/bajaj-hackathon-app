@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-multipart
+requests
+pydantic
+python-dotenv
+google-cloud-aiplatform
+langchain
+langchain-google-vertexai
+langchain-core
+langchain-text-splitters
+pinecone
+PyMuPDF
+python-docx
